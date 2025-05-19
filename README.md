@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atharv Aggarwal</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharv1507&label=Profile%20views&color=0e75b6&style=flat" alt="atharv1507" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharv1507" alt="atharv1507" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript and Pinescript**
 
 - 👯 I’m looking to collaborate on **Devops**
