@@ -2,7 +2,7 @@
 <h3 align="center">A passionate computer science student from India</h3>
 <h3 align="center">Aspiring to become a software dev.</h3>
 
-- 🌱 I’m currently learning **Javascript and Pinescript**
+- 🌱 I’m currently learning **Java and C++**
 
 - 👯 I’m looking to collaborate on **Devops**
 
