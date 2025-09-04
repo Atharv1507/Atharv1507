@@ -21,5 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharv1507&show_icons=true&locale=en" alt="atharv1507" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharv1507&" alt="atharv1507" /></p>
 <a href="www.linkedin.com/in/atharv-aggarwal-180277379">LinkedIn</a>
