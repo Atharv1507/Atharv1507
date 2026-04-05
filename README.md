@@ -18,7 +18,7 @@ I'm a developer currently bridging the gap between competitive **Data Structures
 ---
 
 ### 📂 Projects
-* **Knowledge Auditor:** An Ai powered tool which helps you organise your bookmarks and urls according to projects and tasks [**Bankim**](https://knowledge-auditor.vecel.app).
+* **Knowledge Auditor:** An Ai powered tool which helps you organise your bookmarks and urls according to projects and tasks [**Knowledge Auditor**](https://knowledge-auditor.vecel.app).
 * **bankim.online:** A professional product catalogue website built for my mother's homegrown business, [**Bankim**](https://bankim.online).
 * **Scaler Marketplace:** A marketplace for student at scaler to buy and sell within the premises and avoid the hassel of dealing with groups.
 
